@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/servlet-api.jar" />
+    <libelement value="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/java-json.jar" />
+    <libelement value="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-10" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/servlet-api.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-json.jar">
+        <CLASSES>
+          <root url="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/java-json.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-8.0.16.jar">
+        <CLASSES>
+          <root url="file://F:/eclipse_workspace/PhoneStateServer/WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
